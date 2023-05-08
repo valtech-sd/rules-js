@@ -1,5 +1,5 @@
 {
-  "name": "rules-js",
+  "name": "valtech-sd/rules-js",
   "version": "1.0.0",
   "description": "A simple rule-engine for javascript",
   "main": "index.js",
