@@ -26,7 +26,7 @@ It's very loosely inspired on drools, but keeping an extra effort in keeping com
 ### Install
 
 ```
-npm install rules-js
+npm install @valtech-sd/rules-js
 ```
 
 
