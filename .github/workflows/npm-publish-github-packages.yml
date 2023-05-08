@@ -39,7 +39,8 @@ jobs:
           node-version: 18
           registry-url: https://npm.pkg.github.com/
       - run: yarn install --frozen-lockfile
-      - run: npx semantic-release
+      - if: success()
+        run: npx semantic-release
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
           NPM_TOKEN: ${{secrets.GITHUB_TOKEN}}
