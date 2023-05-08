@@ -1,10 +1,8 @@
 # Rules.JS
 
 [![Build](https://github.com/valtech-sd/rules-js/actions/workflows/npm-publish-github-packages.yml/badge.svg)](https://github.com/valtech-sd/rules-js)
-[![npm](https://img.shields.io/npm/v/rules-js.svg)](https://npmjs.org/package/rules-js)
-[![npm](https://img.shields.io/npm/dt/rules-js.svg)](https://npmjs.org/package/rules-js)
-![David](https://img.shields.io/david/bluealba/rules-js.svg)
-[![Coverage Status](https://coveralls.io/repos/github/bluealba/rules-js/badge.svg?branch=master)](https://coveralls.io/github/bluealba/rules-js?branch=master)
+[![npm](https://img.shields.io/npm/v/@valtech-sd/rules-js.svg)](https://npmjs.org/package/@valtech-sd/rules-js)
+[![npm](https://img.shields.io/npm/dt/@valtech-sd/rules-js.svg)](https://npmjs.org/package/@valtech-sd/rules-js)
 
 ## Overview
 
