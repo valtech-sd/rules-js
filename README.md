@@ -1,6 +1,6 @@
 # Rules.JS
 
-[![Build Status](https://travis-ci.org/bluealba/rules-js.svg?branch=master)](https://travis-ci.org/bluealba/rules-js)
+[![Build](https://github.com/valtech-sd/rules-js/actions/workflows/npm-publish-github-packages.yml/badge.svg)](https://github.com/valtech-sd/rules-js)
 [![npm](https://img.shields.io/npm/v/rules-js.svg)](https://npmjs.org/package/rules-js)
 [![npm](https://img.shields.io/npm/dt/rules-js.svg)](https://npmjs.org/package/rules-js)
 ![David](https://img.shields.io/david/bluealba/rules-js.svg)
