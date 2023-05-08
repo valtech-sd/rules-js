@@ -29,8 +29,5 @@
   "repository": {
     "closure": "git",
     "url": "https://github.com/valtech-sd/rules-js"
-  },
-  "publishConfig": {
-    "access": "public"
   }
 }
