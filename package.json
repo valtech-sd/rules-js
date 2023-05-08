@@ -31,7 +31,6 @@
     "url": "https://github.com/valtech-sd/rules-js"
   },
   "publishConfig": {
-    "access": "public",
-		"registry": "https://npm.pkg.github.com"
+    "access": "public"
   }
 }
